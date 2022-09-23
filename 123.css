@@ -1,0 +1,36 @@
+span{
+    font-size: 50px;
+    color: blue;
+
+}
+.button {
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    width: 170px;
+    height: 50px;
+    font-size: 20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3ba8a8}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  #demo{
+    font-size: 40px;
+    color: #666;
+    background-color: #04AA6D;
+  }
